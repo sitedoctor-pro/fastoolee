@@ -1,0 +1,1 @@
+PDF tools load PDF.js 3.11.174 (Apache-2.0) from cdnjs and pdf-lib 1.17.1 (MIT) from jsDelivr only on PDF tool pages. Split/export tools use a local copy of JSZip 3.10.1 (MIT). User files are processed in the browser and are not sent to Fastoolee.

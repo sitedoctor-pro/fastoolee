@@ -1,0 +1,6 @@
+Bootstrap Icons
+Copyright (c) 2019-2024 The Bootstrap Authors
+Licensed under the MIT License.
+https://icons.getbootstrap.com/
+
+The WhatsApp and Google brand glyph shapes used in QR center-icon presets and matching tool UI icons are sourced from Bootstrap Icons. Other tool and QR center icons are project-local semantic SVG pictograms.
